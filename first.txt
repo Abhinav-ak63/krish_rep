@@ -1,4 +1,8 @@
 First write
 from workspace krish2
 From first branch
+<<<<<<< Updated upstream
 from workspace krish3
+=======
+From workspace krish2
+>>>>>>> Stashed changes
